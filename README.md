@@ -1,5 +1,9 @@
 # 💫 About Me:
-       Java Full Stack Developer | Fresher  <br>🔭 Working on Spring Boot & Angular projects  <br>🌱 Learning Microservices and DSA  <br>💬 Ask me about Java, REST APIs, SQL  <br>⚡ Fun fact: I love building practical projects more than tutorials<br>
+       Java Full Stack Developer | Fresher <br>
+       🔭 Working on Spring Boot & Angular projects  <br>
+       🌱 Learning Microservices and DSA  <br>
+       💬 Ask me about Java, REST APIs, SQL  <br>
+       ⚡ Fun fact: I love building practical projects more than tutorials<br>
 
 
 ## 🌐 Socials:
